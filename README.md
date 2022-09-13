@@ -3,6 +3,7 @@
 ![Full Stack Developer](https://img.freepik.com/vector-premium/codificacion-programacion-desarrollo-web-codigo-computadora-banner-futurista-computadora-portatil_3482-5572.jpg?w=996)
 
 Me gusta estar en constante aprendizaje, los desafíos, hacer amigos nuevos, pasar tiempo con la familia.
+
 Mi experiencia trabajando en area de venta y pre-venta en empresas de distribuciones me forjo a desarrollar varias habilidades como comunicarme con los clientes, facilidad al socializar, trabajo en equipo, liderazgo y cumplimientos de objetivos con tiempos fijados.
 
 Habilidades: Javascript | HTML | CSS | ReactJS | Express | NodeJS
