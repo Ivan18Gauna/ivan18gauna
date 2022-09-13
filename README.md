@@ -2,7 +2,8 @@
 #### Full Stack Developer
 ![Full Stack Developer](https://img.freepik.com/vector-premium/codificacion-programacion-desarrollo-web-codigo-computadora-banner-futurista-computadora-portatil_3482-5572.jpg?w=996)
 
-Me gusta estar en constante aprendizaje, los desafios, hacer amigos nuevos.
+Me gusta estar en constante aprendizaje, los desafíos, hacer amigos nuevos, pasar tiempo con la familia.
+Mi experiencia trabajando en area de venta y pre-venta en empresas de distribuciones me forjo a desarrollar varias habilidades como comunicarme con los clientes, facilidad al socializar, trabajo en equipo, liderazgo y cumplimientos de objetivos con tiempos fijados.
 
 Habilidades: Javascript | HTML | CSS | ReactJS | Express | NodeJS
 
@@ -12,3 +13,4 @@ Habilidades: Javascript | HTML | CSS | ReactJS | Express | NodeJS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ivan18Gauna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ivangauna//)  
 
+Mi 
