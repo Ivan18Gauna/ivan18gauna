@@ -1,6 +1,7 @@
 ### Hola 👋, Mi nombre es ivan
 #### Full Stack Developer
-![Full Stack Developer](https://img.freepik.com/vector-premium/codificacion-programacion-desarrollo-web-codigo-computadora-banner-futurista-computadora-portatil_3482-5572.jpg?w=996)
+![Full Stack Developer]
+
 
 Me gusta estar en constante aprendizaje, los desafíos, hacer amigos nuevos, pasar tiempo con la familia.
 
